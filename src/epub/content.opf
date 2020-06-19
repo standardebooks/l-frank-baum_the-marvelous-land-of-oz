@@ -66,9 +66,10 @@
 		<meta property="authority" refines="#subject-12">LCSH</meta>
 		<meta property="term" refines="#subject-12">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">The adventures of a boy named Tip in Oz after he runs a way from an old witch named Mombi.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Four years after writing his immensely popular &lt;i&gt;The Wonderful Wizard of Oz&lt;/i&gt;, &lt;a href="https://standardebooks.org/ebooks/l-frank-baum"&gt;&lt;abbr&gt;L.&lt;/abbr&gt; Frank Baum&lt;/a&gt; returned to the Land of Oz in this second book of fourteen he wrote about the magical country. Like its predecessor, &lt;i&gt;The Marvelous Land of Oz&lt;/i&gt; has delighted children through the years and been adapted into stage plays, films, and comics.&lt;/p&gt;
+			&lt;p&gt;A young boy named Tip lives in Gillikin Country in Oz with an old witch named Mombi. When Mombi threatens to turn Tip into a statue, he escapes with his friend Jack, a wooden man with a pumpkin as a head, brought to life through magic. He then journeys to the Emerald City, where he embarks upon an exciting adventure, where he meets new quirky characters and returning favorites from the first book.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/54</dc:source>
