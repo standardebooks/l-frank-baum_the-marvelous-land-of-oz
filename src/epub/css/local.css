@@ -16,3 +16,11 @@ footer{
 	text-indent: 0;
 	max-width: 75%;
 }
+
+#chapter-18 blockquote{
+	text-align: center;
+}
+
+#chapter-18 blockquote p{
+	text-indent: 0;
+}
