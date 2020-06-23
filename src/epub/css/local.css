@@ -9,3 +9,10 @@ footer{
 .signature{
 	font-variant: small-caps;
 }
+
+[epub|type~="dedication"] p{
+	margin: auto;
+	margin-top: 3em;
+	text-indent: 0;
+	max-width: 75%;
+}
