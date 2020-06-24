@@ -66,7 +66,10 @@
 		<meta property="authority" refines="#subject-12">LCSH</meta>
 		<meta property="term" refines="#subject-12">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">A boy named Tip embarks on adventures in Oz after he runs away from a witch named Mombi.</dc:description>
+		<meta id="collection-1" property="belongs-to-collection">Oz</meta>
+		<meta property="collection-type" refines="#collection-1">series</meta>
+		<meta property="group-position" refines="#collection-1">2</meta>
+		<dc:description id="description">A boy named Tip embarks on adventures in the magical land of Oz after he runs away from a witch.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Four years after writing his immensely popular &lt;a href="https://standardebooks.org/ebooks/l-frank-baum/the-wonderful-wizard-of-oz"&gt;&lt;i&gt;The Wonderful Wizard of Oz&lt;/i&gt;&lt;/a&gt;, &lt;a href="https://standardebooks.org/ebooks/l-frank-baum"&gt;&lt;abbr&gt;L.&lt;/abbr&gt; Frank Baum&lt;/a&gt; returned to the Land of Oz in this second book of fourteen he wrote about the magical country. Like its predecessor, &lt;i&gt;The Marvelous Land of Oz&lt;/i&gt; has delighted children through the years, and has been adapted into stage plays, films, and comics.&lt;/p&gt;
 			&lt;p&gt;A young boy named Tip lives in Gillikin Country in Oz with an old witch named Mombi. When Mombi threatens to turn Tip into a statue, he escapes with his friend Jack, a wooden man with a pumpkin for a head who has been brought to life through magic. He then journeys to the Emerald City, where he embarks upon an exciting adventure, meeting new quirky characters and returning favorites from the first book.&lt;/p&gt;
