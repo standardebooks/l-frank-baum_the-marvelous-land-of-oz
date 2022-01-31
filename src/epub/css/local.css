@@ -13,8 +13,8 @@ footer{
 [epub|type~="dedication"] p{
 	margin: auto;
 	margin-top: 3em;
-	text-indent: 0;
 	max-width: 75%;
+	text-indent: 0;
 }
 
 #chapter-18 blockquote{
