@@ -77,7 +77,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/54</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/009927232</dc:source>
 		<meta property="se:word-count">42061</meta>
-		<meta property="se:reading-ease.flesch">71.34</meta>
+		<meta property="se:reading-ease.flesch">71.24</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Marvelous_Land_of_Oz</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/l-frank-baum_the-marvelous-land-of-oz</meta>
 		<dc:creator id="author">L. Frank Baum</dc:creator>
