@@ -30,18 +30,18 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">The Marvelous Land of Oz</dc:title>
 		<meta property="file-as" refines="#title">Marvelous Land of Oz, The</meta>
-		<dc:subject id="subject-1">Oz (Imaginary place) -- Juvenile fiction</dc:subject>
+		<dc:subject id="subject-1">Oz (Imaginary place)--Juvenile fiction</dc:subject>
 		<dc:subject id="subject-2">Fantasy literature</dc:subject>
-		<dc:subject id="subject-3">Conduct of life -- Juvenile fiction</dc:subject>
-		<dc:subject id="subject-4">Friendship -- Juvenile fiction</dc:subject>
-		<dc:subject id="subject-5">Voyages and travels -- Juvenile fiction</dc:subject>
-		<dc:subject id="subject-6">Magic -- Juvenile fiction</dc:subject>
-		<dc:subject id="subject-7">Practical jokes -- Juvenile fiction</dc:subject>
-		<dc:subject id="subject-8">Youth -- Conduct of life -- Juvenile fiction</dc:subject>
-		<dc:subject id="subject-9">Queens -- Juvenile fiction</dc:subject>
-		<dc:subject id="subject-10">Kings and rulers -- Juvenile fiction</dc:subject>
-		<dc:subject id="subject-11">Witches -- Juvenile fiction</dc:subject>
-		<dc:subject id="subject-12">Women soldiers -- Juvenile fiction</dc:subject>
+		<dc:subject id="subject-3">Conduct of life--Juvenile fiction</dc:subject>
+		<dc:subject id="subject-4">Friendship--Juvenile fiction</dc:subject>
+		<dc:subject id="subject-5">Voyages and travels--Juvenile fiction</dc:subject>
+		<dc:subject id="subject-6">Magic--Juvenile fiction</dc:subject>
+		<dc:subject id="subject-7">Practical jokes--Juvenile fiction</dc:subject>
+		<dc:subject id="subject-8">Youth--Conduct of life--Juvenile fiction</dc:subject>
+		<dc:subject id="subject-9">Queens--Juvenile fiction</dc:subject>
+		<dc:subject id="subject-10">Kings and rulers--Juvenile fiction</dc:subject>
+		<dc:subject id="subject-11">Witches--Juvenile fiction</dc:subject>
+		<dc:subject id="subject-12">Women soldiers--Juvenile fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">Unknown</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
