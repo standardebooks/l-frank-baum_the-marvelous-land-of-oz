@@ -94,6 +94,7 @@
 		<meta property="role" refines="#author" scheme="marc:relators">wfw</meta>
 		<dc:contributor id="artist">Paul Gauguin</dc:contributor>
 		<meta property="file-as" refines="#artist">Gauguin, Paul</meta>
+		<meta property="schema:alternateName" refines="#artist">Eugène Henri Paul Gauguin</meta>
 		<link href="https://en.wikipedia.org/wiki/Paul_Gauguin" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n79055546.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
